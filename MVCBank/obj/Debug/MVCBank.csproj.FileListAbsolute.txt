@@ -108,3 +108,5 @@ C:\Users\fkim\Documents\GitHub\MVCBank\MVCBank\bin\Microsoft.Owin.Security.Micro
 C:\Users\fkim\Documents\GitHub\MVCBank\MVCBank\obj\Debug\MVCBank.csprojResolveAssemblyReference.cache
 C:\Users\fkim\Documents\GitHub\MVCBank\MVCBank\obj\Debug\MVCBank.dll
 C:\Users\fkim\Documents\GitHub\MVCBank\MVCBank\obj\Debug\MVCBank.pdb
+C:\Projects\web45\MVCBank\MVCBank\obj\Debug\MVCBank.Migrations.InitialCreate.resources
+C:\Projects\web45\MVCBank\MVCBank\obj\Debug\MVCBank.csproj.GenerateResource.Cache
