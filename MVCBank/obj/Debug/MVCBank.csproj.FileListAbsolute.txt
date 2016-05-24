@@ -110,3 +110,4 @@ C:\Users\fkim\Documents\GitHub\MVCBank\MVCBank\obj\Debug\MVCBank.dll
 C:\Users\fkim\Documents\GitHub\MVCBank\MVCBank\obj\Debug\MVCBank.pdb
 C:\Projects\web45\MVCBank\MVCBank\obj\Debug\MVCBank.Migrations.InitialCreate.resources
 C:\Projects\web45\MVCBank\MVCBank\obj\Debug\MVCBank.csproj.GenerateResource.Cache
+C:\Projects\web45\MVCBank\MVCBank\obj\Debug\MVCBank.Migrations.AccountNuberChanges.resources
