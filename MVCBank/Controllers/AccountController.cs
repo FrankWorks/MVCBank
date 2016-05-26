@@ -156,11 +156,12 @@ namespace MVCBank.Controllers
                 if (result.Succeeded)
                 {
                     var db = new ApplicationDbContext();
+                    var accountnumber = (123456 + db.CheckingAccounts.Count()).ToString().PadLeft(10, '0');
                     var checkingAccount = new CheckingAccount
                     {
                         FirstName = model.FirstName,
                         LastName = model.LastName,
-                        AccountingNumber = "0000012345",
+                        AccountingNumber = accountnumber,
                         Balance = 0m,
                         ApplicationUserId = user.Id
                     };
