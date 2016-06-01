@@ -30,5 +30,7 @@ namespace MVCBank.Models
             return new ApplicationDbContext();
         }
         public DbSet<CheckingAccount> CheckingAccounts { get; set; }
+
+        public DbSet<MVCBank.Models.Transaction> Transactions { get; set; }
     }
 }
