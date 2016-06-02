@@ -58,11 +58,11 @@ namespace MVCBank
             //   appId: "",
             //   appSecret: "");
 
-            //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
-            //{
-            //    ClientId = "",
-            //    ClientSecret = ""
-            //});
+            app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
+            {
+                ClientId = "30019556940-emgf5m37jtuhqno70q7l078l12o4c2nn.apps.googleusercontent.com",
+                ClientSecret = "7srxmoOoHy5tVZes7caIcXBd"
+            });
         }
     }
 }
